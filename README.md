@@ -16,4 +16,8 @@ Aktuelle Version des Chips ESP32 Wroom32
   - Aktuelles Update über die Seite IP/update einspielen
   - Aktuell getestet Zahl an angelernten Geräten liegt bei 40 Aktoren ( Stand 16.7.22 )
   
+ # Update
  
+ 07.09.2022
+ - Beim betätigen der Button UP/Down wird jetzt öffnet oder schließt angezeigt und bei erreichen der Position bzw. bei 
+   Werten über 50% wird geschlossen und bei unter 50% geöffnet angezeigt. 
